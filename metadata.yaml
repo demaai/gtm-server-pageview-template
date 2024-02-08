@@ -13,5 +13,5 @@
 homepage: "https://dema.ai"
 documentation: "https://dema.ai/blog"
 versions:
-  - sha: 692667f8989c73844fcb0d487f3e3c6f2c0cbbd0
+  - sha: 69174eb2727f433359a56e4f9452a2bf331b0ce0
     changeNotes: Initial Version
